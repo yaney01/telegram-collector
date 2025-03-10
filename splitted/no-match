@@ -1,0 +1,4 @@
+#Non-Adaptive Configurations
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNMkV6WQ%3D%3D@ca1.ssocks.wiki:8388#SHADOWSOCKS
+ss://1d86846c-5a27-43c8-8981-57bb75c82195@185.231.205.38:3237/?security=none&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&type=tcp#SHADOWSOCKS
+ss://169221de-6408-4143-9e66-6f77de385e94@zula.ir:443/?path=%2F%40Cassiusvpn-%40Cassiusvpn-%40Cassiusvpn-%40Cassiusvpn-%40Cassiusvpn-%3Fed%3D2048&security=tls&encryption=none&host=cassiusvpn-cassiusvpn-000.stat-4.workers.dev&type=ws&sni=cassiusvpn-cassiusvpn-000.stat-4.workers.dev#SHADOWSOCKS
