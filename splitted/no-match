@@ -1,0 +1,5 @@
+#Non-Adaptive Configurations
+ss://3602c1ed-5506-4d78-a0be-f39a7594e888@49.12.222.117:57818?type=ws&path=/#SHADOWSOCKS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVUDNKTjk4QzZFT1I%3D@62.60.233.21:443#SHADOWSOCKS
+ss://1d86846c-5a27-43c8-8981-57bb75c82195@185.153.183.181:3237?encryption=none&security=none&type=tcp&headerType=none#SHADOWSOCKS
+ss://0cf13601-4752-4f9f-b196-e2e214a589bb@172.167.181.175:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=hefdah.dilik.co#SHADOWSOCKS
